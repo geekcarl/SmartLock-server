@@ -1,0 +1,71 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="newinterlockwebservice">
+    <output-path>$PROJECT_DIR$/out/artifacts/newinterlockwebservice</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="newinterlockwebservice/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="newinterlockwebservice" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="module" name="xmlbeans-2.6.0.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="antlr-2.7.6.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="aopalliance-1.0.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="aopalliance-alpha1.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="aspectjrt.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="aspectjweaver.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="cglib-nodep-2.1_3.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="commons-collections-2.1.1.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="commons-dbcp.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="commons-fileupload.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="commons-io.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="commons-logging.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="commons-pool.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="dom4j-1.6.1.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="ejb3-persistence.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="hibernate-annotations.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="hibernate-commons-annotations.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="hibernate-validator-4.2.0.Final.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="hibernate3.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="jackson-core-asl-1.7.2.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="jackson-mapper-asl-1.7.2.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="javassist-3.7.ga.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="json_simple-1.1.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="json-lib-2.1.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="json-lib-2.2.2-jdk15.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="jta.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="log4j-1.2.11.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.26-bin.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="poi-3.10.1-20140818.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="poi-examples-3.10.1-20140818.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="poi-excelant-3.10.1-20140818.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="poi-ooxml-3.10.1-20140818.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="poi-ooxml-schemas-3.10.1-20140818.jar" module-name="newinterlockwebservice" />
+          <element id="library" level="module" name="poi-scratchpad-3.10.1-20140818.jar" module-name="newinterlockwebservice" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/standard-1.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jstl-1.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-aop-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-aspects-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-beans-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-context-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-context-support-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-core-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-expression-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-instrument-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-instrument-tomcat-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-jdbc-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-jms-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-orm-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-oxm-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-struts-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-test-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-tx-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-web-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-webmvc-3.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib-spring3.2/spring-webmvc-portlet-3.2.4.RELEASE.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

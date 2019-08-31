@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="newinterlockwebservice"
+  id="myeclipse.1404091439370"
+  context-root="/newinterlockwebservice"
+  j2ee-spec="5.0"
+  archive="newinterlockwebservice.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
